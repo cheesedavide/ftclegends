@@ -1,5 +1,61 @@
 {
     "events": {
+          "2022houston": {
+            "name": "Houston Championship 2022",
+            "short": "2022 (Houston)",
+            "game": "Freight Frenzy",
+            "location": "Houston, Texas",
+            "placement": [
+                {
+                    "place": "w",
+                    "0": 17713,
+                    "1": 11260,
+                    "2": 14725
+                },
+                {
+                    "place": "f",
+                    "0": 11212,
+                    "1": 8644,
+                    "2": 12928
+                },
+                {
+                    "place": "sf",
+                    "0": 18438,
+                    "1": 8393,
+                    "2": 8565
+                },
+                {
+                    "place": "sf",
+                    "0": 12808,
+                    "1": 14481,
+                    "2": 18225
+                },
+                {
+                    "place": "qf",
+                    "0": 14188,
+                    "1": 8813,
+                    "2": 12518
+                },
+                {
+                    "place": "qf",
+                    "0": 7172,
+                    "1": 16461,
+                    "2": 6165
+                },
+                {
+                    "place": "qf",
+                    "0": 9356,
+                    "1": 8365,
+                    "2": 14503
+                },
+                {
+                    "place": "qf",
+                    "0": 16880,
+                    "1": 3708,
+                    "2": 12586
+                }
+            ]
+        },
         "2019detroit": {
             "name": "Detroit Championship 2019",
             "short": "2019 (Detroit)",
@@ -1326,6 +1382,10 @@
         "8231": {
             "location": "ND",
             "name": "Skyhawks"
+        },
+         "8365": {
+            "location": "NY",
+            "name": "Gearmasters"
         },
         "8375": {
             "location": "CA",
